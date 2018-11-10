@@ -1,0 +1,1 @@
+insert into t_user(name,url) VALUES('lizhyang','www.hfut-lzy.cn');
